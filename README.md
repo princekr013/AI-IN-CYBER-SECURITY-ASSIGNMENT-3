@@ -136,7 +136,7 @@ Through this assignment, I gained practical experience in:
 
 ## 👨‍💻 Author
 
-**Ritik Sharma**
+**Prince kumar**
 
 B.Tech – Computer Science and Engineering
 
